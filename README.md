@@ -19,13 +19,12 @@ Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](http
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="assets/icons/cpp.png" alt="C++" width="40" />
-  <img src="assets/icons/python.png" alt="Python" width="40" />
-  <img src="assets/icons/java.png" alt="Java" width="40" />
-  <img src="assets/icons/javascript.png" alt="JavaScript" width="40" />
-  <img src="assets/icons/mongodb.png" alt="MongoDB" width="40" />
-  <img src="assets/icons/html.png" alt="HTML5" width="40" />
-  <img src="assets/icons/css.png" alt="CSS3" width="40" />
+  <img src="cpp.png" alt="C++" width="40" />
+  <img src="python.png" alt="Python" width="40" />
+  <img src="java.png" alt="Java" width="40" />
+  <img src="mongodb.png" alt="MongoDB" width="40" />
+  <img src="html.png" alt="HTML5" width="40" />
+ 
 </p>
 
 
