@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there 👋, I'm Pallavi Akolkar
 
-<!--
-**Pallavi1904/Pallavi1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 My Skills & Technologies
+- AI/ML | Deep Learning | Python | LLM 
+- Full‑stack (MERN) | HTML | CSS | JS |
+- C | Cpp 
+- SQL | MongoDB
 
-Here are some ideas to get you started:
+## 📫 Reach me:
+[pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pallavi-akolkar/)
+<p align="center">
+  <img src="…coding-enthusiast" alt="Female software engineer coding" width="350" style="border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><em>"Passionate about building real‑world solutions 💻✨"</em></p>
+
