@@ -64,6 +64,11 @@ Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](http
 ---
 
 
+### 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pallavi1904&limit=5&theme=dark&combine_all_yearly_contributions=true&hide=nonexistent" alt="Top contributed repositories" />
+</p>
 
 ---
 ### ✍️ Random Dev Quote
@@ -76,11 +81,6 @@ Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](http
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffee ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/UPI ID: pallaviakolkar55@okicici) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
