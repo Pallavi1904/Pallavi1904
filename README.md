@@ -1,11 +1,12 @@
 # Hey 👋, I'm Pallavi Akolkar
 
 ## 🎯 My Skills & Technologies
-- Php | WordPress
-- AI/ML | Deep Learning | Python | LLM 
-- Full‑stack (MERN) | HTML | CSS | JS |
-- C | Cpp 
-- SQL | MongoDB
+**• 🔧 PHP** | **WordPress**  
+**• 🧠 AI/ML** | **Deep Learning** | **Python** | **LLM**  
+**• 🌐 Full‑stack (MERN)** | **HTML** | **CSS** | **JavaScript**  
+**• 💾 C** | **C++**  
+**• 🗄️ SQL** | **MongoDB**
+
 
 ## 📫 Reach me:
 Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pallavi-akolkar/)
@@ -41,12 +42,19 @@ Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](http
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
 </p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pallavi1904&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
