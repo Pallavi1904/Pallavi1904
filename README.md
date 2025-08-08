@@ -1,10 +1,9 @@
 # Hey 👋, I'm Pallavi Akolkar
 
-## 🎯 My Skills & Technologies
-**• 🔧 PHP** | **WordPress**  
+## 🎯 My Skills & Technologies 
 **• 🧠 AI/ML** | **Deep Learning** | **Python** | **LLM**  
 **• 🌐 Full‑stack (MERN)** | **HTML** | **CSS** | **JavaScript**  
-**• 💾 C** | **C++**  
+**• 💾 C** | Java | **C++**  
 **• 🗄️ SQL** | **MongoDB**
 
 
