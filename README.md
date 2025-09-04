@@ -8,7 +8,7 @@
 
 
 ## 📫 Reach me:
-Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pallavi-akolkar/)
+Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pallavi-akolkar/) | [My site](https://pallaviakolkar-portfolio.netlify.app/)
 
 ##
 <p align="center">
