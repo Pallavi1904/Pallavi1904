@@ -1,7 +1,7 @@
 # Hey 👋, I'm Pallavi Akolkar
 
 ## 🎯 My Skills & Technologies 
-**• 🧠 AI/ML** | **Deep Learning** | **Python** | **LLM**  
+**• 🧠 Data Science** | **AI/ML** | **Deep Learning** | **Python** | **LLM**  
 **• 🌐 Full‑stack (MERN)** | **HTML** | **CSS** | **JavaScript**  
 **• 💾 C** | Java | **C++**  
 **• 🗄️ SQL** | **MongoDB**
