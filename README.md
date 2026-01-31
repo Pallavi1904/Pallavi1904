@@ -62,14 +62,6 @@ Mail: [pallaviakolkar55@gmail.com](pallaviakolkar55@gmail.com) | [LinkedIn](http
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi1904&theme=dark&hide=php&layout=compact)
 
 
----
-
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pallavi1904&limit=5&theme=dark&combine_all_yearly_contributions=true&hide=nonexistent" alt="Top contributed repositories" />
-</p>
 
 ---
 ### ✍️ Random Dev Quote
